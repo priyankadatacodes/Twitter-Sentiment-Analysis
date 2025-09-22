@@ -33,7 +33,24 @@ Columns: id, entity, sentiment, content
 
 ---
 
+## **Results**
+
+<img width="589" height="455" alt="efd5ef58-a963-4389-b073-e2b51af62a99" src="https://github.com/user-attachments/assets/85b1eeac-f8cb-4175-b2e0-c70706e4e21f" />
+
+<img width="710" height="435" alt="e307f44c-832c-48bb-8b33-0a287f70a94c" src="https://github.com/user-attachments/assets/7c3d363d-1e88-46a5-86fa-64444c46fde4" />
+
+<img width="794" height="429" alt="f0233cec-3c07-43cc-84c3-c7f3e5c0eae2" src="https://github.com/user-attachments/assets/d1254297-bcaa-4b89-92c6-dab9137038b0" />
+
+<img width="794" height="429" alt="9e640937-6b9b-48b4-a8da-2784bbb103af" src="https://github.com/user-attachments/assets/4f4f2041-c353-4963-8742-f1ac4131a970" />
+
+<img width="794" height="429" alt="c0fa349f-bb08-4f51-822f-53feab3b9578" src="https://github.com/user-attachments/assets/aa432861-d869-4871-9cb9-f75094629a8a" />
+
+<img width="567" height="435" alt="7b7a0628-787c-415f-a5ff-7198f9cdfa6e" src="https://github.com/user-attachments/assets/91e34681-7572-4699-9766-9a5b00d60dfc" />
+
+
+
 ## **Insights**
+
 
 Positive tweets indicate brand strengths and customer satisfaction.
 Negative tweets reveal customer pain points and areas for improvement.
